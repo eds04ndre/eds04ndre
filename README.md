@@ -64,5 +64,3 @@ Ejercicios del curso Machine Learning de la A a la Z: regresión, clasificación
 - Ciudad de México, UNAM
 
 ---
-
-*Siempre aprendiendo. Siempre construyendo.*
