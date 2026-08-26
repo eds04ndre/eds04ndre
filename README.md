@@ -6,7 +6,7 @@
 
 ## Sobre mí
 
--  Estudiante de **Matemáticas Aplicadas** en la UNAM · Carrera técnica en Computación
+-  **Matemático Aplicado** · Carrera técnica en Computación
 -  Profesor ayudante de **Visión por Computadora** (UNAM)
 -  Experiencia en análisis de datos aplicado a marketing
 -  Participante en múltiples hackatones de ciencia de datos e IA
